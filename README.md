@@ -1,5 +1,3 @@
-48:26 / 5:33:29 : This is were I stoped
-
 # Aiefy - Open Source AI Tools Web Application
 
 Welcome to the README documentation for Aiefy, a web application designed to provide free access to the latest open source AI tools. Aiefy allows users to contribute their own AI tools through GitHub repositories, which can then be accessed and utilized by anyone through the website's user-friendly interface.
