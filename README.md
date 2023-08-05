@@ -20,7 +20,7 @@ To get Aiefy up and running on your local machine, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/aiefy.git
+https://github.com/garv-2501/aiefy.git
 ```
 
 2. Navigate to the project directory:
