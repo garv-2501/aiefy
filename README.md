@@ -1,5 +1,8 @@
 # Aiefy - Open Source AI Tools Web Application
 
+Unfortunately, this is a dead project.
+Fortunately, I have a much better project going on that takes advantage of the ideas in Aiefy and add much more to it. It is a perfect one place for all platform. Will be coming soon....
+
 Welcome to the README documentation for Aiefy, a web application designed to provide free access to the latest open source AI tools. Aiefy allows users to contribute their own AI tools through GitHub repositories, which can then be accessed and utilized by anyone through the website's user-friendly interface.
 
 ## Table of Contents
